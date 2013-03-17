@@ -1,11 +1,8 @@
 AFImgurAPIClient
 =======
-Cocoa client for syncing read reddit links
+Cocoa client for http://imgur.com
 
 Dependencies: 
 - iOS5
 - base 64 encoder of some sort
 - https://github.com/AFNetworking/AFNetworking
-
-Additional info
-- http://imgur.com/
